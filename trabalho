@@ -1,0 +1,13 @@
+<html>
+     <body> 
+        <h1> Meu nome é: Elisiana Bianca 
+
+</h1> 
+<h2> Tenho 17 anos </h2> 
+<img src= "https://raw.githubusercontent.com/Elisiana556/Elisiana-Reposit-rio-/07f89eeee7e44297a6d5bbd7c04f790dcc4edfc3/unnamed.jpg" class="minha-imagem"> 
+</body> 
+<style> 
+.minha-imagem{ border-radius:20px; width:500px; border: 44pxpxsolid#333; } 
+h2{color: blue;} 
+h1{color:mediumvioletred}
+ </style>
